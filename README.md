@@ -1,10 +1,5 @@
-Projet n°7 - Créez un tableau de bord dynamique avec PowerBI pour visualiser l’avancement de projets
+<h2>Projet n°7 - Créez un tableau de bord dynamique avec PowerBI pour visualiser l’avancement de projets</h2>
 
-==========================================================
-
-Objectifs pédagogiques
-
----------------------
 
 Créer un tableau de bord interactif pour rendre la visualisation disponible et accessible
 Optimiser une solution de visualisation accessible, adaptée au public et au type de donnée
